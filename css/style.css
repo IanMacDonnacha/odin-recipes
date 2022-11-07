@@ -1,4 +1,9 @@
-body {
+.homepage-body {
     font-family: Arial, Helvetica, sans-serif;
-    align-content: center;
+    text-align: center;
+}
+
+.hompage-img{
+    height: auto;
+    width: 200px;
 }
