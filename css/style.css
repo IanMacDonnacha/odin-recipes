@@ -3,7 +3,12 @@
     text-align: center;
 }
 
-.hompage-img{
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.homepage-img{
     height: auto;
     width: 200px;
 }
