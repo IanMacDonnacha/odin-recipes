@@ -3,12 +3,24 @@
     text-align: center;
 }
 
+h1 {
+    color: rgb(39, 6, 32);
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+    background-color: rgb(224, 164, 142);
 }
 
 .homepage-img{
     height: auto;
-    width: 200px;
+    width: 500px;
+    border-color: black;
+}
+
+button {
+    height: auto;
+    width: 250px;
+    font-size: 30px;
+    border-color: black;
 }
